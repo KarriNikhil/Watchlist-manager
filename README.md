@@ -1,2 +1,2 @@
 <h1>Watchlist Manager</h1>
-<p> <img src = "https://imgur.com/a/BmtAnyw" style="max-width:100%;> </p>
+ <img src="https://i.imgur.com/DKW203e.png" style="max-width:100%;">
